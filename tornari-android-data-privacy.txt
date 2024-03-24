@@ -1,0 +1,1 @@
+The "tornari" android application doesn't send any data to third parties or to the developer of the application.
